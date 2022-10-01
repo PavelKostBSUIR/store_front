@@ -1,0 +1,133 @@
+{
+  "myProducts": [
+    {
+      "id": 1,
+      "name": "aw bike",
+      "category": "bike",
+      "city": "molo",
+      "photo": "https://picsum.photos/1200/800"
+    },
+    {
+      "id": 2,
+      "name": "porshe",
+      "category": "car",
+      "city": "molo",
+      "photo": "https://picsum.photos/300/200"
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "Vlad",
+      "surname": "Voitko",
+      "phoneNumber": "228"
+    },
+    {
+      "id": 2,
+      "name": "Anton",
+      "surname": "VichRoman",
+      "phoneNumber": "227"
+    }
+  ],
+  "me": {
+    "id": 3,
+    "name": "Pavel",
+    "surname": "Kost",
+    "email": "pkostukevic@gmail.com",
+    "phoneNumber": "226"
+  },
+  "chats": [
+    {
+      "id": 1,
+      "interviewer": 1,
+      "product": 1,
+      "messages": [
+        {
+          "id": 1,
+          "sender": 1,
+          "text": "Hello"
+        },
+        {
+          "id": 2,
+          "sender": 3,
+          "text": "Hi"
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "aw bike",
+      "category": "bike",
+      "city": "molo",
+      "photo": "https://picsum.photos/1200/800"
+    },
+    {
+      "id": 2,
+      "name": "porshe",
+      "category": "car",
+      "city": "molo",
+      "photo": "https://picsum.photos/300/200"
+    },
+    {
+      "id": 3,
+      "name": "porshe",
+      "category": "car",
+      "city": "molo",
+      "photo": "https://picsum.photos/300/200"
+    },
+    {
+      "id": 4,
+      "name": "porshe",
+      "category": "car",
+      "city": "molo",
+      "photo": "https://picsum.photos/300/200"
+    },
+    {
+      "id": 5,
+      "name": "porshe",
+      "category": "car",
+      "city": "molo",
+      "photo": "https://picsum.photos/300/200"
+    },
+    {
+      "id": 6,
+      "name": "porshe",
+      "category": "car",
+      "city": "molo",
+      "photo": "https://picsum.photos/300/200"
+    },
+    {
+      "id": 7,
+      "name": "porshe",
+      "category": "car",
+      "city": "molo",
+      "photo": "https://picsum.photos/300/200"
+    },
+    {
+      "id": 8,
+      "name": "porshe",
+      "category": "car",
+      "city": "molo",
+      "photo": "https://picsum.photos/300/200"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "aw bike",
+      "ownerName": "Pavel",
+      "ownerNumber": "+3953434344",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum, velit et scelerisque condimentum, mauris nunc convallis ex, nec facilisis dolor lacus eu magna. Duis egestas nec enim ultricies scelerisque. Proin vitae enim consequat, vestibulum eros a, malesuada est. Donec cursus neque ante, vel laoreet sapien mattis ac. Pellentesque facilisis et purus a lacinia.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum, velit et scelerisque condimentum, mauris nunc convallis ex, nec facilisis dolor lacus eu magna. Duis egestas nec enim ultricies scelerisque. Proin vitae enim consequat, vestibulum eros a, malesuada est. Donec cursus neque ante, vel laoreet sapien mattis ac. Pellentesque facilisis et purus a lacinia.",
+      "category": "bike",
+      "city": "molo",
+      "photos": [
+        "https://picsum.photos/1200/800",
+        "https://picsum.photos/1200/800",
+        "https://picsum.photos/1200/800"
+      ]
+    }
+  ]
+}
